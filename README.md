@@ -65,7 +65,7 @@ jupyter notebook Notebooks/analisis_redes.ipynb
 ## 📈 Resultado: 
 ### Palabras más frecuentes
 A continuación, se muestra las palabras más frecuentes 
-![Palabras más frecuentes](./Outputs/Outputs/wordcloud_palabras.png)
+![Palabras más frecuentes](./Outputs/wordcloud_palabras.png)
 
 ### Tendencia de sentimientos por mes
 
@@ -87,11 +87,11 @@ También se analizaron los **likes promedio**, **comentarios promedio** y **retw
 Si bien es cierto que hubo caida de publicaciones positivas, como se puede observar el promedio de likes apoyando a los negaativos son mucho menor que a los positivos excepto en Twitter
 
 
-![Tendencia mensual de comentarios  promedio por sentimiento y red social](./Outputs/Outputs\comentarios_promedio_por_red_y_sentimiento.png)
+![Tendencia mensual de comentarios  promedio por sentimiento y red social](./Outputs/comentarios_promedio_por_red_y_sentimiento.png)
 
 Los comentarios promedios en sentimientos negativos es relativamente mayor que los positivos, excepto Twitter porque no tenemos datos de comentarios. 
 
-![Tendencia mensual de retweets/compartidos  promedio por sentimiento y red social](./Outputs/Outputs\Outputs\difusion_promedio_por_red_y_sentimiento.png)
+![Tendencia mensual de retweets/compartidos  promedio por sentimiento y red social](./Outputs/difusion_promedio_por_red_y_sentimiento.png)
 
 El sentimiento negativo tiene mayor cantidad de promedio de retweets en Twitter; en cambio en Facebook hasta mitad de año los sentimientos positivos tenian más compartidos que los negativos en contraste de fin de año. 
 
