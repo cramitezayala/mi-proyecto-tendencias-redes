@@ -65,7 +65,7 @@ jupyter notebook Notebooks/analisis_redes.ipynb
 ## 📈 Resultado: 
 ### Palabras más frecuentes
 A continuación, se muestra las palabras más frecuentes 
-![Palabras más frecuentes](./Outputs/Outputs\wordcloud_palabras.png)
+![Palabras más frecuentes](./Outputs/Outputs/wordcloud_palabras.png)
 
 ### Tendencia de sentimientos por mes
 
