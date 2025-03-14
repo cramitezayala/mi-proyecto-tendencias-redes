@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Análisis de Tendencias en Redes Sociales
 
 By: Rosario Quispe, Carlos Ramirez and Juan Saavedra
@@ -108,3 +109,7 @@ El sentimiento negativo tiene mayor cantidad de promedio de retweets en Twitter;
 ## 📌 Créditos
 
 Este proyecto fue desarrollado como parte del curso de análisis de datos del BSG Institute.
+=======
+# mi-proyecto-tendencias-redes
+mi-proyecto-tendencias-redes
+>>>>>>> 3b7ce2dae1fca32e3b3e999dda0dda4e3b83837e
